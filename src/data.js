@@ -1,5 +1,5 @@
 export const buek = [
-    'valaki hány 🤮', 
+    'valaki a wc-ben hányik 🤮', 
     'valaki csókolózik nem a párjával 💋', 
     'kiürül egy tömény 😋', 
     'valaki kártyatrükköt mutat be 🪄', 
@@ -26,6 +26,26 @@ export const buek = [
     'valaki újévi fogadalmat tesz 🥗',
     'valaki panaszkodik, mert hangosan bulizunk 🤬',
     'random emberek csatlakoznak a bulihoz 🙋🏼‍♀️',
+    'valaki hangszeren játszik 🎹',
+    'legalább 5 ember a himnuszt énekli 🎼',
+    'legalább 3 ember TV kabarét néz 🤹🏻‍♀️',
+    'valaki átöltözik 👗',
+    'valaki kültéren pisil 🤫',
+    'valaki lehány valakit 🤢',
+    'valaki az exével textel 🤥',
+    'a 3. üveg bor kiürül 🍷',
+    'az 5. üveg pezsgő kiürül 😵‍💫',
+    'valaki véletlenül kiborítja az italát 😩',
+    'legalább 5-en pálinkáznak 🍄',
+    'valaki bealszik 😴',
+    'helyszínt vált a buli ⛺️',
+    'felkel a nap 🌄',
+    'valaki fancy koktélt kever 🍹',
+    'valaki nem alkoholizál legalább éjfélig 🤰🏽',
+    'valaki social mediára posztol 👩🏼‍💻',
+    'valakin szilveszteri hacuka van 🤡',
+    '4 elhagyott pohár keletkezik ❓',
+    'valakinek lemerül a telefonja 📲',
 ]
 
 export const buekJoker = '2️⃣0️⃣2️⃣2️⃣'
