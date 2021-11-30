@@ -1,0 +1,31 @@
+export const buek = [
+    'valaki hány 🤮', 
+    'valaki csókolózik nem a párjával 💋', 
+    'kiürül egy tömény 😋', 
+    'valaki kártyatrükköt mutat be 🪄', 
+    'valaki felhozza, hogy szingli 😥', 
+    'legalább 5-en shotoznak 🥃', 
+    'valaki elsírja magát 🥺', 
+    'valaki eltör valamit 🥴', 
+    'valaki hazamegy 🏠', 
+    'legalább 4-en szelfiznek együtt 📸',
+    'legalább 3 ember társasozik 🎲', 
+    'valaki hangosan énekel 🎤', 
+    'Áder János beszédet mond 🇭🇺', 
+    'valaki toastot mond 🥂', 
+    'valaki elesik 🤕',
+    'valaki BUÉK üzenetet kap 💬', 
+    'valaki szétlocsol egy pezsgőt 🍾', 
+    'tüzijátékot látunk ✨', 
+    'valaki dudát fúj 🎉', 
+    'valaki dohányzik, aki amúgy nem szokott 🚬',
+    'valaki felhívja a szüleit ☎️', 
+    'legalább 5 ember ivósjátékozik 🎲', //22
+    'legalább 3 ember egyszerre táncol 🕺🏻', 
+    'valaki taktikai evést folytat 🍞',
+    'valaki újévi fogadalmat tesz 🥗',
+    'valaki panaszkodik, mert hangosan bulizunk 🤬',
+    'random emberek csatlakoznak a bulihoz 🙋🏼‍♀️',
+]
+
+export const buekJoker = '2️⃣0️⃣2️⃣2️⃣'
