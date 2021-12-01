@@ -1,5 +1,5 @@
 export const buek = [
-    'valaki a wc-ben hányik 🤮', 
+    'valaki a wc-ben rókázik 🤮', 
     'valaki csókolózik nem a párjával 💋', 
     'kiürül egy tömény 😋', 
     'valaki kártyatrükköt mutat be 🪄', 
@@ -32,7 +32,7 @@ export const buek = [
     'valaki átöltözik 👗',
     'valaki kültéren pisil 🤫',
     'valaki lehány valakit 🤢',
-    'valaki az exével textel 🤥',
+    'valaki az exével textel ❤️‍🩹',
     'a 3. üveg bor kiürül 🍷',
     'az 5. üveg pezsgő kiürül 😵‍💫',
     'valaki véletlenül kiborítja az italát 😩',
